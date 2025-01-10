@@ -1,0 +1,13 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "google/apiclient": "^2.15",
+        "facebook/graph-sdk": "^5.7",
+        "robthree/twofactorauth": "^1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "VillageCart\\": "includes/"
+        }
+    }
+}

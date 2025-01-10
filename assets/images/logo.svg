@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+    <!-- Store Icon -->
+    <path d="M10,40 L10,25 L40,25 L40,40 Z" fill="#4e73df"/>
+    <path d="M5,25 L45,25 L40,15 L10,15 Z" fill="#2e59d9"/>
+    <path d="M15,40 L15,30 L20,30 L20,40 Z" fill="#ffffff"/>
+    
+    <!-- Text -->
+    <text x="55" y="35" font-family="Arial" font-size="24" font-weight="bold" fill="#4e73df">
+        VillageCart
+    </text>
+</svg>
