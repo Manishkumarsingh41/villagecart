@@ -49,8 +49,11 @@ In your project, locate the database connection file (usually something like db.
 ## php
 
 $servername = "localhost";
+
 $username = "root";  // default XAMPP username is 'root'
+
 $password = "";  // default password is empty
+
 $dbname = "villagecart_db";  // the database you created
 
 
@@ -62,23 +65,34 @@ Start Apache and MySQL services.
 Open your browser and navigate to:
 
 ## arduino
+```bash
+mv villagecart /path/to/xampp/htdocs/
+```
 
-http://localhost/villagecart/
 You should now be able to see and interact with your project.
 
 ## Usage
 Browse Products: Navigate through the product catalog to view available items.
+
 Add to Cart: Select products and add them to your cart.
+
 Checkout: Proceed to checkout, enter your shipping details, and complete the purchase.
-Contributing
+
+## Contributing
 We welcome contributions to improve VillageCart! To contribute:
 
 ## Fork the repository.
+
 Create a new branch (git checkout -b feature-name).
+
 Make your changes.
+
 Commit your changes (git commit -am 'Add new feature').
+
 Push to your fork (git push origin feature-name).
+
 Submit a pull request.
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -87,4 +101,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For any inquiries, please contact:
 
 Author: Manish Kumar Singh
-GitHub: Manishkumarsingh41
+GitHub: [Manishkumarsingh41](https://github.com/Manishkumarsingh41)
