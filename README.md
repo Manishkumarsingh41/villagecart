@@ -27,6 +27,7 @@ To run this project locally using **XAMPP**, follow these steps:
 ```bash
 git clone https://github.com/Manishkumarsingh41/villagecart.git
 
+```
 ## 2. Move to the XAMPP "htdocs" directory:
 
 By default, XAMPP’s web root directory is located at:
@@ -36,7 +37,7 @@ Move the cloned repository to this directory:
 
 ```bash
 mv villagecart /path/to/xampp/htdocs/
-
+```
 ## 3. Set up the database:
 Open phpMyAdmin by navigating to http://localhost/phpmyadmin in your browser.
 Create a new database (e.g., villagecart_db).
@@ -45,8 +46,8 @@ Import the database schema (if provided) or manually create tables for your proj
 ## 4. Update database connection settings:
 In your project, locate the database connection file (usually something like db.php or config.php in PHP projects) and update the database details like the database name, username, and password.
 
-php
-Copy code
+## php
+
 $servername = "localhost";
 $username = "root";  // default XAMPP username is 'root'
 $password = "";  // default password is empty
