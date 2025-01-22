@@ -1,5 +1,7 @@
 # VillageCart
-
+```bash
+https://github.com/Manishkumarsingh41/villagecart/blob/master/village%20cart.jpg
+```
 VillageCart is an e-commerce platform designed to provide a simple and efficient online shopping experience for users in rural and village areas. The platform allows users to browse, add products to their cart, and make purchases seamlessly.
 
 ## Features
